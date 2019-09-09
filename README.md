@@ -1,2 +1,2 @@
-# Shoes-mall
-鞋子商城
+# wechat
+微信小程序
